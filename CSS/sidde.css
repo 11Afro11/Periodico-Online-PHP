@@ -1,0 +1,28 @@
+#bosside{
+    width: 85%;
+    background-color: white;
+    border-right: 2px solid black;
+}
+
+#bosside:hover{
+    background-color: #c9e2b3;
+}
+
+#tematica{
+    display: block;
+}
+
+#relacionado{
+    position: relative;
+    background: darkseagreen;
+}
+
+.notice{
+    background-color: darkseagreen;
+}
+
+#anuncio{
+    margin-left: 5%;
+    width:90%;
+    height:400px;
+}

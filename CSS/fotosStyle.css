@@ -1,0 +1,435 @@
+@media screen {
+
+    body {
+        background-image: url("../Imagenes/Background.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin-bottom: 10px;
+        width: 100%;
+
+    }
+
+    /*//contenido principal*/
+    .mainbox {
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        margin-left: 10%;
+        margin-right: 10%;
+        background-color: white;
+        height: 1000px;
+    }
+
+    .mainfirst {
+        background-color: white;
+        margin-top: 0%;
+        float: left;
+        width: 80%;
+        height: 100%;
+        border-right: 2px solid black;
+    }
+
+    .lateral {
+        background-color: darkseagreen;
+        margin-top: 0%;
+        width: 20%;
+        float: right;
+        height: 100%;
+    }
+
+    h5 {
+        margin-right: 10%;
+    }
+
+    #add {
+        margin-top: 15%;
+        margin-right: 0%;
+        margin-left: 5%;
+    }
+
+    #add1 {
+        margin-top: 15%;
+        margin-right: 0%;
+        margin-left: 1%;
+        top: 10%;
+        left: 74%;
+        position: absolute;;
+    }
+
+    #add2 {
+        margin-top: 15%;
+        margin-right: 0%;
+        margin-left: 1%;
+        top: 57%;
+        left: 74%;
+        position: absolute;
+    }
+
+    .confondo {
+        background-color: white;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    #imagen {
+        float: left;
+        width: 150px;
+        height: 140px;
+        margin: 5px;
+        border: 1px;
+    }
+
+    #Portada {
+        width: 40%;
+        height: 200px;
+        border: 1px;
+        margin-top: 0%;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+    #PortadaM {
+        width: 40%;
+        height: 200px;
+        border: 1px;
+        margin-top: 0%;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+    #imagenMain {
+        float: left;
+        width: 310px;
+        height: 300px;
+        margin: 1px;
+        margin-right: 1%;
+        border: 1px;
+    }
+
+    #Main {
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        border-right: 2px solid black;
+        width: 80%;
+        height: 50%;
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-top: 0%;
+        margin-bottom: 2%;
+        border: 1px;
+        font-size: 38px;
+        max-height: 200px;
+    }
+
+    article {
+        margin-top: 0px;
+        margin-left: 0%;
+        margin-right: 0%;
+        padding: 2em;
+        color: black;
+        overflow: hidden;
+        float: left;
+        max-height: 100px;
+        font-size: 11px;
+    }
+
+    body {
+        background-image: url("../Imagenes/Background.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        margin-bottom: 10px;
+        width: 100%;
+
+    }
+
+    /*//contenido principal*/
+    .mainbox {
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        margin-left: 10%;
+        margin-right: 10%;
+        background-color: white;
+        height: 100%;
+    }
+
+    .mainfirst {
+        background-color: white;
+        margin-top: 0%;
+        float: left;
+        width: 80%;
+        height: 100%;
+    }
+
+    .lateral {
+        margin-top: 0%;
+        width: 20%;
+        float: right;
+        background-color: darkseagreen;
+    }
+
+    h5 {
+        margin-right: 10%;
+    }
+
+    #add {
+        margin-top: 15%;
+        margin-right: 0%;
+        margin-left: 5%;
+    }
+
+    #add1 {
+        margin-top: 15%;
+        margin-right: 0%;
+        margin-left: 1%;
+        top: 10%;
+        left: 74%;
+        position: absolute;;
+    }
+
+    #add2 {
+        margin-top: 15%;
+        margin-right: 0%;
+        margin-left: 1%;
+        top: 57%;
+        left: 74%;
+        position: absolute;
+    }
+
+    .confondo {
+        background-color: white;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    #imagen {
+        float: left;
+        width: 150px;
+        height: 140px;
+        margin: 5px;
+        border: 1px;
+    }
+
+    #Portada {
+        width: 40%;
+        height: 200px;
+        border: 1px;
+        margin-top: 0%;
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+    #imagenMain {
+        float: left;
+        width: 310px;
+        height: 300px;
+        margin: 1px;
+        margin-right: 1%;
+        border: 1px;
+    }
+
+    #Main {
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        border-right: 2px solid black;
+        width: 80%;
+        height: 50%;
+        margin-left: 0%;
+        margin-right: 0%;
+        margin-top: 0%;
+        margin-bottom: 2%;
+        border: 1px;
+        font-size: 38px;
+        max-height: 200px;
+    }
+
+    article {
+        margin-top: 0px;
+        margin-left: 0%;
+        margin-right: 0%;
+        padding: 2em;
+        color: black;
+        overflow: hidden;
+        float: left;
+        max-height: 100px;
+        background-color: white;
+        font-size: 11px;
+    }
+
+    aside {
+        margin-top: 0px;
+        margin-left: 0%;
+        margin-right: 0%;
+        padding: 2em;
+        color: black;
+        overflow: hidden;
+        float: left;
+        max-height: 100px;
+        font-size: 9px;
+    }
+
+    .izquierda {
+        float: left;
+        width: 33%;
+        margin-bottom: 5%;
+    }
+
+    .derecha {
+        float: right;
+        width: 33%;
+        margin-bottom: 5%;
+    }
+
+    .centro {
+        margin: 0 auto;
+        width: 33%;
+        margin-bottom: 5%;
+    }
+
+    h3 {
+        text-align: center;
+    }
+
+    /*colores*/
+    .notice {
+        color: black;
+    }
+
+    .notice:hover {
+        color: white;
+    }
+
+    a {
+        text-decoration: none;
+        text-decoration-color: black;
+    }
+
+    a.notice:hover {
+        color: #000066;
+    }
+
+    a.notice:active {
+        color: #660066;
+    }
+
+    .pieDePagina {
+        margin-top: 10px;
+        border-top: solid black;
+        padding: 2em;
+        float: left;
+        text-align: center;
+        font-size: 20px;
+        background-color: transparent;
+    }
+
+    #subtitle {
+        float: left;
+        margin-left: 7%;
+        border-bottom: 2px solid black;
+    }
+
+    .noticeSugerida {
+        color: black;
+    }
+
+    .noticeSugerida:hover {
+        color: blue;
+    }
+
+    a.noticeSugerida {
+    }
+}
+
+@media screen and (max-width:800px) {
+    .lateral{
+        display:none;
+    }
+
+    #imagen{
+        width:100px;
+
+        height:75px;
+
+        position: inherit;
+    }
+
+    #imagenMain{
+        width:100px;
+
+        height:75px;
+        position: inherit;
+    }
+    .izquierda {
+        float:left;
+        margin-right: 50%;
+    }
+
+    .derecha {
+        float:left;
+        margin-right: 0%;
+    }
+
+    .centro {
+        float:left;
+        margin-right: 50%;
+    }
+    .engloba{
+        width: 100%;
+        right: 0;
+        left: 0;
+    }
+    .mainfirst{
+        width: 100%;
+        height: 100%;
+        left: 0;
+        right: 0;
+    }
+    article{
+        width: 350px;
+        height: 200px;
+        left: 0;
+        right: 0;
+    }
+
+    #imagenMain {
+        width:100px;
+
+        height:75px;
+    }
+
+    #Main {
+        width: 290px;
+        font-size: 11px;
+    }
+    .port{
+        float: left;
+        width: 290px;
+    }
+
+    #Portada {
+        width: 30%;
+        height: 35px;
+        border: 1px;
+        margin-top: 0%;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+    .mainbox {
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+        margin-left: 0%;
+        margin-right: 0%;
+        background-color: white;
+    }
+    #PortadaM{display: none;}
+
+    .pieDePagina {
+        margin-top: 1px;
+        border-top: solid black;
+        padding: 1em;
+        float: left;
+        text-align: center;
+        font-size: 8px;
+        background-color: transparent;
+    }
+}
+
+/*Barra de Busqueda*/

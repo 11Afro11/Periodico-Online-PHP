@@ -1,0 +1,30 @@
+#botonEdit{
+
+    background: #1ddced;
+    padding: 5px 15px;
+    font-size: 30px;
+    color: #fff;
+    border: none;
+    margin: 1% 0% 3% 80%;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 #0eb3c1;
+    cursor: pointer;
+    -webkit-transition: background .2s ease;
+    -moz-transition: background .2s ease;
+    -o-transition: background .2s ease;
+}
+
+.despliegueEdit #boton-send{
+    background: #1ddced;
+    padding: 5px 15px;
+    font-size: 30px;
+    color: #fff;
+    border: none;
+    margin: 1% 0% 3% 80%;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 #0eb3c1;
+    cursor: pointer;
+    -webkit-transition: background .2s ease;
+    -moz-transition: background .2s ease;
+    -o-transition: background .2s ease;
+}

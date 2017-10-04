@@ -1,0 +1,109 @@
+
+h2{
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-bottom: 10%;
+    font-size: 38px;
+}
+
+.Editor{
+    margin-top: 20%;
+}
+
+#titulo{
+    margin-top: 5%;
+}
+
+#boton{
+
+    background: #1ddced;
+    padding: 5px 15px;
+    font-size: 30px;
+    color: #fff;
+    border: none;
+    margin: 1% 0% 3% 87%;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 #0eb3c1;
+    cursor: pointer;
+    -webkit-transition: background .2s ease;
+    -moz-transition: background .2s ease;
+    -o-transition: background .2s ease;
+}
+select{
+    margin-left: 2%;
+    margin-top: 2%;
+    display: inline-block;
+}
+
+textarea{
+    margin-top: 5%;
+}
+
+#titulotitle{
+    width: 50%;
+    margin-left: 3%;
+    display: inline-block;
+}
+#redact{
+    margin-bottom: 2%;
+}
+#botonPrev1{
+
+    background: #1ddced;
+    padding: 5px 15px;
+    font-size: 30px;
+    color: #fff;
+    border: none;
+
+    border-radius: 3px;
+    box-shadow: 0 3px 0 #0eb3c1;
+    cursor: pointer;
+    -webkit-transition: background .2s ease;
+    -moz-transition: background .2s ease;
+    -o-transition: background .2s ease;
+}
+
+#botonPrev2{
+
+    background: #1ddced;
+    padding: 5px 15px;
+    font-size: 30px;
+    color: #fff;
+    border: none;
+    margin: 1% 0% 1% 87%;
+    border-radius: 3px;
+    box-shadow: 0 3px 0 #0eb3c1;
+    cursor: pointer;
+    -webkit-transition: background .2s ease;
+    -moz-transition: background .2s ease;
+    -o-transition: background .2s ease;
+}
+
+#display{
+    float: left;
+    margin-bottom: 5%;
+    margin-right: 10%;
+}
+
+#histtitle{
+    width: 100%;
+    float: left;
+}
+
+#busqueda{
+    width: 80%;
+}
+#busc{
+    margin-left: 2%;
+}
+
+#resaltado{
+    background-color: #00abf0;
+}
+
+#subti{
+    margin-top: 0%;
+}
+
+
+

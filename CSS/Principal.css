@@ -1,0 +1,229 @@
+
+@media screen {
+  .principal > h1{
+    font-size: 70px;
+    text-align: justify;
+  }
+
+  .principal > h2{
+    font-size: 35px;
+    text-align: justify;
+    margin-bottom: 10px;
+  }
+
+  .principal > h3{
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10%;
+    text-align: justify;
+  }
+  .principal > h4{
+    font-size: 18px;
+    margin-top: 2px;
+    margin-left: 10%;
+    text-align: justify;
+  }
+  
+  .principal > p{
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .principal #pie-de-foto{
+    font-size: 12px;
+    float:right;
+  }
+
+
+  #uno{
+    width: 80%;
+    height: 60%;
+    /*margin-top: 50px;*/
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+  }
+
+  #author{
+    margin-left: 0%;
+  }
+
+  .principal{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .mainbox{
+    display: table;
+    background-color: darkseagreen;
+  }
+  .mainbox > .mainfist{
+    display: table-cell;
+    float: none;
+  }
+  .mainbox > .lateral{
+    display: table-cell;
+    float: none;
+    background-color: darkseagreen;
+  }
+
+  .video-responsive {
+    position: relative;
+    margin-bottom: 20px;
+    padding-top: 56.25%;
+  }
+  .video-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  img{
+    margin-right: 10%;
+    width: 80%;
+  }
+}
+
+
+
+@media screen and (max-width:800px) {
+  .mainbox {
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    margin-left: 0%;
+    margin-right: 0%;
+    background-color: greenyellow;
+    width: 100%;
+  }
+
+  .mainbox > .mainfist{
+    width:100%;
+    right: 0;
+  }
+
+  img{
+    margin-right: 0%;
+  }
+
+  .mainbox > .lateral{
+    display: none;
+  }
+
+  .mainfist{
+    left: 0;
+    right: 0;
+    width: 100%;
+  }
+
+  .engloba{
+    width: 80%;
+    right: 0;
+  }
+  #uno{
+    width: 100%;
+    /*margin-top: 50px;*/
+    margin-left: 0%;
+    margin-right: 1%;
+    margin-bottom: 1%;
+  }
+
+  #PortadaM{display: none;}
+
+  .principal > h1{
+    font-size: 14px;
+    text-align: justify;
+  }
+
+  .principal > h2{
+    font-size: 12px;
+    text-align: justify;
+    margin-bottom: 10px;
+  }
+
+  .principal > h3{
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10%;
+    text-align: justify;
+  }
+  .principal > h4{
+    font-size: 11px;
+    margin-top: 2px;
+    margin-left: 10%;
+    text-align: justify;
+  }
+
+  .principal > p{
+    font-size: 11px;
+    text-align: justify;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .principal #pie-de-foto{
+    font-size: 8px;
+    float:right;
+  }
+   .lateral{
+     display: none;
+
+   }
+
+  #author{
+    margin-left: 0%;
+  }
+
+  .principal{
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  #COM{
+    font-size: 11px;
+    margin-left: -20%;
+  }
+}
+
+
+
+@media print{
+  header, footer, nav, aside {
+    display: none;
+  }
+
+  body {
+    background-image: none;
+  }
+
+  #title{
+    display: none;
+  }
+
+  #add1{
+    display: none;
+  }
+
+  #add2{
+    display: none;
+  }
+
+  .social{
+    display: none;
+  }
+
+  .pieDePagina{
+    display: none;
+  }
+
+  a[href^=http]:after {
+    content:" <" attr(href) ">";
+  }
+
+  #lateral{
+    display:none;
+  }
+}
